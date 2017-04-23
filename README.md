@@ -10,4 +10,4 @@ For Linux:
 2. Install NodeJS (on Ubuntu: sudo apt-get install nodejs nodejs-legacy npm git)
 3. Download this repo (ZIP or git clone https://github.com/misha-marinenko/electron-installer.git)
 4. cd into directory
-5. run install.sh (sh install.sh)
+5. Run as root install.sh (sudo sh install.sh)
